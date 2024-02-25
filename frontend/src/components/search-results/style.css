@@ -1,0 +1,10 @@
+.search-result{
+    border: 1px solid #aaa;
+}
+
+.list-item {
+    height: 50px;
+    padding: 0 10px;
+    display: flex;
+    align-items: center;
+}
